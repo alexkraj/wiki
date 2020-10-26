@@ -51,9 +51,10 @@ extra:
           digital: true
         - name: DurHack 2020
           website: https://durhack.com/
+          background: /static/art/hackathon_tiles/durjam_background.png
           location: Durham University
           when: 14th-15th November
-          attendees: 425
+          attendees: 150
           digital: true
         - name: HackNotts 2020
           website: https://www.hacknotts.com/
